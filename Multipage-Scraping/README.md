@@ -3,6 +3,8 @@
 This project consists of a python script to scrape the first couple of reviews present on a particular restuarant on Yelp - https://www.yelp.ca/biz/pai-northern-thai-kitchen-toronto-5?osq=Restaurants
 Output - reviews.csv
 
+Since reviews are dynamically loaded, we are using Selenium and Chrome Driver to load the dynamic JS Data.
+
 The bonus task for this project was to extend it to scrape <em>ALL</em> of the reviews present on a particular restuarant on Yelp - https://www.yelp.ca/biz/pai-northern-thai-kitchen-toronto-5?osq=Restaurants
 Output - yelp_reviews.xls
 
